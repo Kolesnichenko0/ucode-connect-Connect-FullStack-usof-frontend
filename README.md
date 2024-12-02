@@ -7,12 +7,11 @@
 - [Features](#features)
 - [Requirements and Dependencies](#requirements-and-dependencies)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
+- [State Management](#state-management)
+- [API Integration](#api-integration)
 - [Authentication](#authentication)
 - [Sample Credentials](#sample-credentials)
-- [AdminJS Interface](#adminjs-interface)
-- [Nodemailer Integration](#nodemailer-integration)
-- [API Documentation](#api-documentation)
+- [Screenshots](#screenshots)
 
 ## Overview
 The **Solve Stack Frontend** provides a modern, responsive user interface for interacting with the Solve Stack backend API. It offers a seamless experience for users to create, browse, and engage with programming-related posts and discussions.
